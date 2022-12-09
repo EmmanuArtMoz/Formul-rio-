@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ body{
+    background-image: url('backgound/photography-ideas-creative-occupation-design-studio-concept.jpg');
+    background-position: center;
+    background-size: cover;
+
+ }
+
+ .box{
+    justify-content: center;
+    width: 500px; 
+    height: 500px;
+    margin-left: 30%;
+    margin-top: 5%;
+    background-color: rgb(255,255,255,.5);
+    border: 3px solid rgb(239, 239, 239);
+ border-radius: 10%;
+ }
+.logotipo{
+   margin-top: 5%;
+   width: 80px;
+   margin-left: 43%;
+}
+
+.logo{
+   width: 100%;
+}
+.title{
+   width: 100%;
+   text-align: center;
+}
+.title h3{
+   font-size: 26px;
+
+}
+.title p{
+   font-size: 16px;
+}
+.conteudo{
+   width: 100%;
+}
+.fa-envelope{
+   margin-top: 7%;
+   font-size: 20px;
+   margin-left: 7%;
+}
+.fa-lock{
+   margin-top: 3%;
+   font-size: 20px;
+   margin-left: 7%;
+}
+.conteudo2{
+   width: 100%;
+}
+.conteudo2 input{
+   margin-top: 3%;
+margin-left: 7%;
+}
+.forget a{
+   margin-top: 4%;
+   margin-left: 7%;
+ text-decoration: none;
+}
+.bnt{
+   background-color: #fff;
+   border: 2 solid ;
+   width: 100px;
+   height: 25px;   margin-top: 4%;
+   margin-left: 7%;
+}
+.bnt a{
+   background-color: #fff;
+   border: 2 solid ;
+   width: 100px;
+   height: 25px;
+   text-decoration: none;
+
+}
+.bnt a:hover{
+   background-color: rgb(113, 117, 122);
+}
+.bnt:hover{
+   background-color: rgb(113, 117, 122);
+}
+.newaccount{
+   width: 100%;
+}
+.newaccount p{
+   margin-top: 4%;
+   margin-left: 7%;
+}
+.newaccount a{
+   margin-top: 4%;
+   margin-left: 7%;
+ text-decoration: none;
+}
+
+.outro{
+   width: 100%;
+
+}
+.outro h3{
+   font-size: 18px;
+   margin-top: 4%;
+   margin-left: 7%;
+}
+.fa-google{
+ font-size: 24px;
+ margin-top: 4%;
+ margin-left: 7%;
+ color: #fff;
+}
+.fa-facebook{
+   font-size: 24px;   margin-top: 4%;
+   margin-left: 7%;
+   color: blue;
+}
